@@ -1,5 +1,5 @@
 body{
-    background-color:#377eb8;
+    background-color:black;
 }
 div{
     display:inline;
@@ -13,11 +13,4 @@ div{
       color:black;
       font-size:30px;
       border:1px solid white;
-      
-      
-}
-p{
-     background-color:black;
-     height:auto;
-     width:500px;
 }
